@@ -18,9 +18,7 @@ namespace WishList
             foreach(string wish in myWishList)
             {
  Console.WriteLine(wish);
-            }
-           
-         
+            }        
         }
     }
 }
